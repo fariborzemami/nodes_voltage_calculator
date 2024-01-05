@@ -18,15 +18,15 @@ This is a Python program for performing nodal analysis on an electrical circuit.
 ## Example
 ```
 Enter the number of nodes: 3
-Enter current source at node 1: 5+2j
-Enter current source at node 2: 3-1j
-Enter current source at node 3: 1+4j
-Enter admittance at node 1: 0.5-0.3j
-Enter admittance at node 2: 0.6+0.2j
-Enter admittance at node 3: 0.4-0.1j
-Enter the admittance between nodes 1 and 2: 0.2-0.1j
-Enter the admittance between nodes 1 and 3: 0.3+0.2j
-Enter the admittance between nodes 2 and 3: 0.1-0.05j
+Enter current source at node 1: 5
+Enter current source at node 2: 3
+Enter current source at node 3: 1
+Enter admittance at node 1: 0.5
+Enter admittance at node 2: 0.6
+Enter admittance at node 3: 0.4
+Enter the admittance between nodes 1 and 2: 0.2
+Enter the admittance between nodes 1 and 3: 0.3
+Enter the admittance between nodes 2 and 3: 0.1
 
 Voltage of node 1: 2.917241379310345
 Voltage of node 2: 2.2405172413793105
